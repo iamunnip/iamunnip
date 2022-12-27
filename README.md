@@ -1,4 +1,9 @@
 Hi!
 
 - My name is Unni P and working as a DevOps Engineer!
-- LinkedIn Profile: https://www.linkedin.com/in/iamunnip/
+
+Follow me on:
+
+- LinkedIn: https://www.linkedin.com/in/iamunnip/
+- Twitter: https://twitter.com/iamunnip
+- Medium: https://medium.com/@iamunnip
