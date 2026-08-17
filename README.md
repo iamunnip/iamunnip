@@ -30,11 +30,11 @@ When I'm not wrangling Kubernetes clusters or tuning pipelines, I'm usually expl
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| **Infrastructure** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![OpenTofu](https://img.shields.io/badge/OpenTofu-FF8C00?style=for-the-badge&logo=open tofu&logoColor=white) |
-| **Secret Management** | ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black) ![OpenBao](https://img.shields.io/badge/OpenBao-1C1C1C?style=for-the-badge&logo=openbao&logoColor=white) |
+| **Infrastructure** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![OpenTofu](https://img.shields.io/badge/OpenTofu-FF8C00?style=for-the-badge&logo=opentofu&logoColor=white) |
+| **Secret Management** | ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black) ![OpenBao](https://img.shields.io/badge/OpenBao-1C1C1C?style=for-the-badge&logoColor=white) |
 | **Configuration** | ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) |
 | **Containerization** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Reverse Proxy** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-3FA7D6?style=for-the-badge&logo=traefik%20inverse&logoColor=white) |
+| **Reverse Proxy** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-3FA7D6?style=for-the-badge&logo=traefik&logoColor=white) |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) |
 | **GitOps** | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) |
 | **Service Mesh** | ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white) |
@@ -43,7 +43,7 @@ When I'm not wrangling Kubernetes clusters or tuning pipelines, I'm usually expl
 | **Messaging** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 | **Observability** | ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
 | **Workflow** | ![Argo Workflows](https://img.shields.io/badge/Argo%20Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) |
-| **AI Agents** | ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=openaccess&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) |
+| **AI Agents** | ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logoColor=white) |
 | **Project Management** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 ---
